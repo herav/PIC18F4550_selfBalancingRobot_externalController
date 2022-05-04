@@ -1,0 +1,13 @@
+*.txt
+/microcontroller/__history
+/microcontroller/selfBalancingRobot.cof
+/microcontroller/selfBalancingRobot.err
+/microcontroller/selfBalancingRobot.esym
+/microcontroller/selfBalancingRobot.hex
+/microcontroller/selfBalancingRobot.lst
+/microcontroller/selfBalancingRobot.STA
+/microcontroller/selfBalancingRobot.sym
+/microcontroller/selfBalancingRobot.tre
+/microcontroller/selfBalancingRobot.xsym
+/microcontroller/selfBalancingRobot.h
+/microcontroller/selfBalancingRobot.ccspjt
